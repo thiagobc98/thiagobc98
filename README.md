@@ -16,14 +16,21 @@ I work with data extraction, transformation, automation, cloud solutions, and da
 - Python
 - SQL & MySQL
 - Web Scraping
+- Data Warehouse
 - ETL / ELT Pipelines
+- dbt
 - Apache Spark & PySpark
+- Apache Kafka
 - Apache Airflow
+- Databricks
 - Machine Learning
 - Power BI
 - Google Looker Studio
 - AWS & GCP
+- Docker
 - N8N Automation
+- LangChain & LangGraph
+- RAG (Retrieval-Augmented Generation)
 
 ---
 
